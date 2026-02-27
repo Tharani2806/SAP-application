@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZZCICIT_TAB_22AD147",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZZCICIT_TAB_22AD147",
+  "sapObjectType": "ZZCICIT_TAB_22AD147",
+  "rootNode": true
+}
